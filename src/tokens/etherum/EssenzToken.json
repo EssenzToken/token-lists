@@ -1,0 +1,9 @@
+{
+  "name": "EssenzToken",
+  "address": "0xd508D2A5A9BD1161264787A058c605eF5986F54b",
+  "symbol": "ESSENZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logoURI": "https://i.imgur.com/UA5lrZf.png",
+  "tags": ["education", "learning", "blockchain", "token"]
+}
