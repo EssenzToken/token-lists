@@ -1,0 +1,8 @@
+{
+  "name": "EssenzToken",
+  "symbol": "ESSENZ",
+  "decimals": 18,
+  "chainId": 1,
+  "address": "0xd508d2a5a9bd1161264787a058c605ef5986f54b",
+  "logoURI": "https://i.imgur.com/UA5lrZf.png"
+}
